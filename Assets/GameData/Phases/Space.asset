@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0a8214d9bc88004894b7a8edc61bc29, type: 3}
+  m_Name: Space
+  m_EditorClassIdentifier: 
+  phaseName: Space
+  startsAt: 4
+  startingBackground: {fileID: 3598116612191208058, guid: 0e62c63b7a5fd54468935c49e387d908,
+    type: 3}
+  middleBackgrounds:
+  - {fileID: -1484026811230398171, guid: 0e62c63b7a5fd54468935c49e387d908, type: 3}
+  - {fileID: -302528608544233904, guid: 0e62c63b7a5fd54468935c49e387d908, type: 3}
+  endingBackground: {fileID: -2276259661975475453, guid: 0e62c63b7a5fd54468935c49e387d908,
+    type: 3}
